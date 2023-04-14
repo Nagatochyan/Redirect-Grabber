@@ -1,1 +1,3 @@
 # Redirect-Grabber
+リダイレクトURLに相手の情報を取れる機能を追加しました。
+使うときはindex.jsのwebhookを指定してください
